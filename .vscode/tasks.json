@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Reorganize source folders",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"e:\\doanJava\\scripts\\reorganize-domains.mjs"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
